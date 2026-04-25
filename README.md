@@ -1,4 +1,4 @@
-# 🧠 Agentic Chatbot with Tools
+# 🧠 Agentic LLM System
 
 A multi-agent LLM system that dynamically selects tools and reasoning paths to solve user queries across multiple domains.
 
